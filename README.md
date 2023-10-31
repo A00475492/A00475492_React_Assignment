@@ -5,6 +5,9 @@ This is my assignment submission for the React Assignment. I have pushed the cod
 Kindly check.
 
 Regards.
+
 Pranay Malusare
+
 A00475492
+
 pranay.prabhakar.malusare@smu.ca

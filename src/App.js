@@ -6,6 +6,11 @@ function Home() {
   return (
     <div>
       <Link to="/mytown">Go to My Town</Link>
+      <l1>
+        <h1>
+          THIS IS MAIN
+        </h1>
+      </l1>
       <h3>Home</h3>
       <p>My Name : Pranay Malusare</p>
       <h3>About Yourself</h3>

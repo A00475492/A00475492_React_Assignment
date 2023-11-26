@@ -8,7 +8,7 @@ function Home() {
       <Link to="/mytown">Go to My Town</Link>
       <l1>
         <h1>
-          THIS IS MAIN
+          THIS IS QA
         </h1>
       </l1>
       <h3>Home</h3>

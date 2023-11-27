@@ -25,7 +25,3 @@ steps:
     PathtoPublish: 'build'
     ArtifactName: 'drop'
     publishLocation: 'Container'
-If deploying to a Linux app service, the start command to use on the release pipeline stage is this:
-
-
-pm2 serve /home/site/wwwroot/ --no-daemon --spa
